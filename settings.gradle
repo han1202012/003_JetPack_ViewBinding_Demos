@@ -1,0 +1,2 @@
+rootProject.name='003_JetPack_ViewBinding_Demos'
+include ':app'
